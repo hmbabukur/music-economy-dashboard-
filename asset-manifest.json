@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/music-economy-dashboard%20/static/css/main.4ba5f363.css",
+    "main.js": "/music-economy-dashboard%20/static/js/main.3497ee72.js",
+    "static/media/nigeria-map.jpg": "/music-economy-dashboard%20/static/media/nigeria-map.8de00d9bb04cdc8be750.jpg",
+    "index.html": "/music-economy-dashboard%20/index.html",
+    "main.4ba5f363.css.map": "/music-economy-dashboard%20/static/css/main.4ba5f363.css.map",
+    "main.3497ee72.js.map": "/music-economy-dashboard%20/static/js/main.3497ee72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ba5f363.css",
+    "static/js/main.3497ee72.js"
+  ]
+}
