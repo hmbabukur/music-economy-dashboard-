@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/music-economy-dashboard/static/css/main.4ba5f363.css",
-    "main.js": "/music-economy-dashboard/static/js/main.3cffa7ac.js",
-    "static/media/nigeria-map.jpg": "/music-economy-dashboard/static/media/nigeria-map.8de00d9bb04cdc8be750.jpg",
-    "index.html": "/music-economy-dashboard/index.html",
-    "main.4ba5f363.css.map": "/music-economy-dashboard/static/css/main.4ba5f363.css.map",
-    "main.3cffa7ac.js.map": "/music-economy-dashboard/static/js/main.3cffa7ac.js.map"
+    "main.css": "/music-economy-dashboard-/static/css/main.4ba5f363.css",
+    "main.js": "/music-economy-dashboard-/static/js/main.0ab6ddbb.js",
+    "static/media/nigeria-map.jpg": "/music-economy-dashboard-/static/media/nigeria-map.8de00d9bb04cdc8be750.jpg",
+    "index.html": "/music-economy-dashboard-/index.html",
+    "main.4ba5f363.css.map": "/music-economy-dashboard-/static/css/main.4ba5f363.css.map",
+    "main.0ab6ddbb.js.map": "/music-economy-dashboard-/static/js/main.0ab6ddbb.js.map"
   },
   "entrypoints": [
     "static/css/main.4ba5f363.css",
-    "static/js/main.3cffa7ac.js"
+    "static/js/main.0ab6ddbb.js"
   ]
 }
