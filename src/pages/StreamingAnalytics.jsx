@@ -9,7 +9,6 @@ export default function StreamingAnalytics() {
 
   function handleFilterChange(ch) {
     setFilters((s) => ({ ...s, ...ch }));
-    // todo: call API with filters
   }
 
   return (

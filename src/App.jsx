@@ -7,7 +7,7 @@ import "./index.css";
 function App() {
   return (
     <ThemeProvider>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <AppRoutes />
       </Router>
     </ThemeProvider>

@@ -27,10 +27,10 @@ export default function EconomicImpact() {
         </div>
       </div>
 
-      <div className="card-glass py-8 px-12">
+      <div className="card-glass py-8 px-12 ">
         <h3 className="text-2xl font-semibold mb-4">Forecast (3 years)</h3>
         <p className="text-xl">Predicted growth in streaming revenue and export value (sample).</p>
-        {/* placeholder chart */}
+       
         <div className="mt-4">
           <LineChart />
         </div>

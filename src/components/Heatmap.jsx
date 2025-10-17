@@ -1,8 +1,6 @@
 import React from "react";
 
-/* Placeholder heatmap component - replace with real heatmap lib later
-   This shows a simple grid visual that represents "peak hours".
-*/
+
 export default function Heatmap() {
   const days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
   const hours = ["0-3", "4-7", "8-11", "12-15", "16-19", "20-23"];

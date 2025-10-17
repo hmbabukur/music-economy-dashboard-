@@ -19,7 +19,7 @@ function Navbar() {
   return (
     <nav className="bg-white/70 dark:bg-gray-900/60 backdrop-blur-xl shadow-xl sticky top-0 z-50 border-b border-gray-200 dark:border-gray-700 transition-all">
       <div className="mx-auto flex items-center justify-between px-12 py-8">
-        {/* Logo */}
+        
         <div className="flex items-center space-x-3">
           <img src={logo} alt="Logo" className="w-12 h-12 rounded-full shadow-md" />
           <h1 className="text-3xl font-bold text-gray-800 dark:text-white tracking-wide">
@@ -27,7 +27,7 @@ function Navbar() {
           </h1>
         </div>
 
-        {/* Desktop Links */}
+     
         <div className="hidden md:flex items-center space-x-8">
           {navLinks.map((link) => (
             <Link

@@ -12,10 +12,10 @@ export default function PieChart() {
       {
         data: PLATFORM_SHARE.data,
         backgroundColor: [
-          "#06b6d4", // cyan
-          "#f97316", // orange
-          "#6366f1", // indigo
-          "#10b981", // green
+          "#06b6d4", 
+          "#f97316", 
+          "#6366f1", 
+          "#10b981", 
         ],
         hoverOffset: 6,
       },

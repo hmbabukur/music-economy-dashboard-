@@ -1,7 +1,6 @@
 import React from "react";
 
 export default function FilterBar({ onChange }) {
-  // onChange will be called with filter object
   function handleChange(e) {
     const { name, value } = e.target;
     onChange && onChange({ [name]: value });

@@ -12,7 +12,7 @@ ChartJS.register(CategoryScale, LinearScale, BarElement, Tooltip, Legend);
 
 export default function BarChart({ title = "Top artists", items = [] }) {
   const labels = items.map((d) => d.name);
-  const values = items.map((d) => Math.round(d.streams / 1_000_000)); // in millions
+  const values = items.map((d) => Math.round(d.streams / 1_000_000)); 
 
   const data = {
     labels,
